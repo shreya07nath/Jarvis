@@ -9,7 +9,7 @@ I have added basic stuff like opening google, wikipedia, youtube and other websi
 applications sending whatsapp messages and emails to anyone you like. Feel free to fork it and add any more
 functionalities you would want your Jarvis to do!
 
-*To send emails please make sure you have allowed access to less secure apps else the email won't be sent*
+*To send emails please make sure you have allowed access to less secure apps on gmail else the email won't be sent*
 
 Pyaudio will not get installed by using the command *pip install pyaudio*. To install pyaudio on latest
 Python versions especially after Python 3.7. Search "unofficial python binaries" on google and click on 
