@@ -11,10 +11,10 @@ functionalities you would want your Jarvis to do!
 
 *To send emails please make sure you have allowed access to less secure apps else the email won't be sent*
 
-Pyaudio is will not get installed by using the command *pip install pyaudio*. To install pyaudio on latest
-Python versions especially after Python 3.7 search "unofficial python binaries" on google and click on 
+Pyaudio will not get installed by using the command *pip install pyaudio*. To install pyaudio on latest
+Python versions especially after Python 3.7. Search "unofficial python binaries" on google and click on 
 pyaudio from the list of modules available to be installed and then select your version of Python installed
 in your system. This will install all the dependencies needed to install pyaudio. After downloading this
-from the unofficial python libraries website procees with pip install as earlier!!
+from the unofficial python libraries website progress with pip install on your command prompt as earlier!!
 
 Have fun asking your personal assistant to do things for you!
